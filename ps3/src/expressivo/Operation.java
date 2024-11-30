@@ -38,7 +38,7 @@ public class Operation implements Expression {
         }
         return "(" + sb + ")";
     }
-
+ 
     @Override
     public boolean equals(Object obj) {
         if (!(obj instanceof Operation)) return false;

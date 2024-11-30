@@ -1,5 +1,5 @@
 package expressivo;
-
+ 
 import java.util.Objects;
 
 public class Literal implements Expression {

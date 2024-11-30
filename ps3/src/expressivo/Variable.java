@@ -1,6 +1,6 @@
 package expressivo;
 
-import java.util.Objects;
+import java.util.Objects; 
 
 public class Variable implements Expression {
     private final String name;
